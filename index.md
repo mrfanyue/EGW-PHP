@@ -1,4 +1,4 @@
-## 欢迎来到EGW研究网站PHP版简单  Welcome to EGW Study PHP VERSION Pages
+## 欢迎来到EGW研究网站PHP版  Welcome to EGW Study PHP VERSION Pages
 
 老版EGW学习是华为(山野农夫）用VS.NET开发，没有手机自适应功能。
 
